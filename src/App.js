@@ -4,7 +4,7 @@ import MovieCard from "./MovieCard";
 import NoMovies from "./NoMovies";
 import searchIcon from "./search.svg";
 
-//c4a16f13
+
 
 const apiUrl = "http://www.omdbapi.com?apikey=c4a16f13";
 
