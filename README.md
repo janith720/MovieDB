@@ -1,1 +1,1 @@
-Movie database
+Movie Searcher
